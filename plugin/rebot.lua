@@ -1,9 +1,9 @@
 --[[
 #
 #ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-#:((#:((
+#:((
 # For More Information ....! 
-# wawi : alnajaf < @wawi_alnajaf > 
+# Wawi : Alnajaf < @wawi_alnajaf > 
 # our channel: @almlaek
 # Version: 1.1
 #:))
